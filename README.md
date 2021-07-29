@@ -5,7 +5,7 @@
 <h2 align='center'> Hi there, I'm Mark 👋 🧑🏻‍💻 </h2>
 
 <p align="center">
-  <samp> I'm a software engineer from Guadalajara, MÉXICO. I am a Full Stack Javascript developer and a pro in Design. Passioniate towards learning, designing minimalistic UI/UX and Love sharing my knowledge and my insights of learning with others through Blogging .. Some of the technologies I enjoy working with include NodeJS, ReactJS, MongoDB, DynamoDB, other JS frameworks and UI/UX samples and prototypes using Figma and 💎 Sketch.
+  <samp> I'm a software engineer from Puerto Vallarta, MÉXICO. I am a Full Stack Javascript developer and a pro in Design. Passioniate towards learning, designing minimalistic UI/UX and Love sharing my knowledge and my insights of learning with others through Blogging .. Some of the technologies I enjoy working with include NodeJS, ReactJS, MongoDB, DynamoDB, other JS frameworks and UI/UX samples and prototypes using Figma and 💎 Sketch.
   </samp>
   <br>
 </p>
